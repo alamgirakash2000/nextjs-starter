@@ -1,7 +1,7 @@
 <h3> This is my own <sb>NextJS</b> starter pack.
 
 ## Step should be followed in order below -
-    - git clone https://github.com/sferik/sign-in-with-twitter.git  as 'app_name'
+    - git clone https://github.com/alamgirakash2000/nextjs-starter  as 'app_name'
     - npm i
     - yarn add sass
     - yarn dev
