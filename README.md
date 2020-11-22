@@ -2,15 +2,14 @@
 
 ## Getting Started
    <h4>Step should be followed in order below </h4>
-   <ul> 
-       <li> git clone https://github.com/sferik/sign-in-with-twitter.git  as 'app_name' </li>
-      <li> yarn add sass </li>
-       <li> yarn dev </li>
-   </ul>
+    - git clone https://github.com/sferik/sign-in-with-twitter.git  as 'app_name'
+    - npm i
+    - yarn add sass
+    - yarn dev
   
 
 ## Features that are availabe here -
-   - Imports sass directly
+   - Imports sass directly with @zeit/next-sass
    - CDNs of bootstrap
 
 ## Learn More
