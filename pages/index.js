@@ -10,6 +10,7 @@ export default function Home() {
 
       <main className="home text-center">
         <h1>My First Next App</h1>
+        <h3>Remove this and start from here.</h3>
       </main>
     </div>
   );
