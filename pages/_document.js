@@ -3,8 +3,14 @@ import Document, { Html, Head, Main, NextScript } from "next/document";
 export default class MyDocument extends Document {
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
+          <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+          <meta name="theme-color" content="#000000" />
+
+          {/*Twitter card data*/}
+          <meta name="twitter:card" content="summary_large_image" />
+
           {/*CDN for Bootstrap*/}
           <link
             rel="stylesheet"

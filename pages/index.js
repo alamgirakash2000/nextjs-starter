@@ -3,15 +3,16 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div>
+    <>
       <Head>
-        <title>First Next app</title>
+        <title>My First Next app</title>
+        <meta name="description" content="A image for NextJs" />
       </Head>
 
       <main className="home text-center">
         <h1>My First Next App</h1>
-        <h3>Remove this and start from here.</h3>
+        <p>Remove this and start from here.</p>
       </main>
-    </div>
+    </>
   );
 }
