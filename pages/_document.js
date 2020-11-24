@@ -10,9 +10,6 @@ export default class MyDocument extends Document {
 
           {/*Twitter card data*/}
           <meta name="twitter:card" content="summary_large_image" />
-          <meta property="og:type" content="article" />
-          <meta property="og:url" content="http://www.example.com/" />
-          <meta property="og:image" content="http://example.com/image.jpg" />
 
           {/*CDN for Bootstrap*/}
           <link
