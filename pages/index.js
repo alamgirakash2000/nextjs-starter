@@ -5,13 +5,18 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>My First Next app</title>
-        <meta name="description" content="A image for NextJs" />
+        <title>Techie Product</title>
+        <meta
+          name="description"
+          content="This is a site for different types of techie products and reviews, also for blog content"
+        />
       </Head>
 
       <main className="home text-center">
-        <h1>My First Next App</h1>
-        <p>Remove this and start from here.</p>
+        <h1>
+          <i>Techie Product Website will be available soon...</i>
+        </h1>
+        <p></p>
       </main>
     </>
   );

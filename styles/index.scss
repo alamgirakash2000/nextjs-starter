@@ -1,3 +1,12 @@
 .home {
-  color: #001155;
+  height: 100vh;
+  color: white;
+  background: -webkit-linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+  background: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    margin: auto;
+  }
 }
